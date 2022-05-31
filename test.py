@@ -1,2 +1,2 @@
-password = "Abc1234567890!"
+password = "!@#$abc09876"
 print(password)
