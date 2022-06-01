@@ -1,0 +1,11 @@
+apiVersion: v2
+kind: Pod
+metadata:
+  name: travispod
+  namespace: default
+  labels:
+    name: travispod
+spec:
+  containers:
+  - name: travispodtest
+    image: nginx
