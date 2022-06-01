@@ -1,2 +1,2 @@
-password = "Abc1234567890!"
+password = "H@Sh1%&#$%%&^@#"
 print(password)
